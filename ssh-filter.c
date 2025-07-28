@@ -28,6 +28,6 @@ int ssh_func(struct bpf_sk_lookup *ctx){
                 return SK_PASS;
         }
         return SK_PASS;
-}
 
+}
 
